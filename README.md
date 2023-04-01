@@ -1,4 +1,8 @@
-## Olá me chamo Mauricio Alcântara!
+## Sobre mim
+
+🚀 Olá! Sou um desenvolvedor entusiasta e apaixonado por tecnologia, sempre em busca de novos desafios e oportunidades de aprendizado. Meu foco principal é o desenvolvimento de aplicações web, com maior ênfase em front-end, mas atualmente estou me aprofundando em back-end para aprimorar minhas habilidades e me tornar um profissional mais completo.
+
+<br>
  <div>
   <a href="https://github.com/MauricioAlcantara">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MauricioAlcantara&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
