@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=120&section=header"/>
+
 🚀 Olá! Sou um desenvolvedor entusiasta e apaixonado por tecnologia, sempre em busca de novos desafios e oportunidades de aprendizado. Meu foco principal é o desenvolvimento de aplicações web, com maior ênfase em front-end, mas atualmente estou me aprofundando em back-end para aprimorar minhas habilidades e me tornar um profissional mais completo.
 
 <br>
